@@ -7,7 +7,11 @@ Our project is a fully customizable mobile game controller for PC games that all
 🎯 Purpose
 
 Traditional game controllers lack flexibility, and many players have unique preferences for button mappings. Our app solves this by allowing users to:
-✅ Create a custom game controller layout on their phone.✅ Use keyboard emulation to send inputs to PC games.✅ Import community-sourced control schemes from Reddit.✅ Use voice commands (via IBM Watson API) to trigger in-game actions.✅ Improve accessibility by supporting gesture and voice-based controls.
+✅ Create a custom game controller layout on their phone.
+✅ Use keyboard emulation to send inputs to PC games.
+✅ Import community-sourced control schemes from Reddit.
+✅ Use voice commands (via IBM Watson API) to trigger in-game actions.
+✅ Improve accessibility by supporting gesture and voice-based controls.
 
 By leveraging Reddit's API, the app scrapes and organizes control layouts shared by gamers, allowing users to import and adjust popular configurations instead of starting from scratch.
 
